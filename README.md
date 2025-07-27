@@ -397,6 +397,15 @@ Controls are often not intended to be used alone.
   ![activity - active](https://img.shields.io/badge/activity-active-2ea44f)
   ![GitHub Repository Last Commit](https://img.shields.io/github/last-commit/Taiizor/ReaLTaiizor)
 
+* **[CuoreUI](https://github.com/owtysm/CuoreUI)**  
+  FREE C# .NET Winforms Controls UI/UX Framework. Modern look in your Windows Forms app.  
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub)](https://github.com/owtysm/CuoreUI)
+  ![GitHub Repository Stars](https://img.shields.io/github/stars/owtysm/CuoreUI?style=social)
+  [![NuGet - CuoreUI.Winforms](https://img.shields.io/badge/NuGet-CuoreUI-blue?logo=nuget)](https://www.nuget.org/packages/CuoreUI.Winforms/)
+  ![activity - active](https://img.shields.io/badge/activity-active-2ea44f)
+  ![GitHub Repository Last Commit](https://img.shields.io/github/last-commit/owtysm/CuoreUI)
+  
+
 <!--
 
 Badges, created using https://michaelcurrin.github.io/badge-generator/#/generic and https://simpleicons.org/
